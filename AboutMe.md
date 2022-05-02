@@ -1,5 +1,5 @@
-## Hey there, I'm Anna
-I am from Hamburg
+## Hey there... I'm Anna
+I live in **Hamburg**
 
 
 Waren Sie als Kind in einem Sportverein? *nein*
